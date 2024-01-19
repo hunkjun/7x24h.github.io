@@ -14,4 +14,4 @@ https://chat001.7x24h.online/
 
 <!-- ![](./zanshangma.jpg) -->
 
-<img src="./zanshangma.jpg" alt="图片" width="30%" height="30%">
+<img src="/images/zanshangma.jpg" alt="图片" width="30%" height="30%">
