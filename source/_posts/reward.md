@@ -8,6 +8,8 @@ tags:
 
 https://chat001.7x24h.online/
 
+如果它帮到你了，请为我发电~~
+
 ### 打赏
 
 <!-- ![](./zanshangma.jpg) -->
