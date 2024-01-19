@@ -12,6 +12,6 @@ https://chat001.7x24h.online/
 
 ### 打赏
 
-![](/images/zanshangma.jpg)
+<!-- ![](/images/zanshangma.jpg) -->
 
 <img src="/images/zanshangma.jpg" alt="图片" width="30%" height="30%">
