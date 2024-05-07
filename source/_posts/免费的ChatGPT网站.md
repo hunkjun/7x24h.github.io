@@ -6,10 +6,19 @@ tags: chatgpt
 
 # 网站URL导航
 
-- [zhile.io](https://chat-shared3.zhile.io/)
+
 - [aichatos](https://chat18.aichatos.xyz/)
-- [小旋风AI](https://wu.ci)
-- [智能AI](https://chat.tinycms.xyz:3002/)
+
+- https://github.com/missuo/FreeGPT35  利用免费登录ChatGPT Web提供的无限免费gpt -3.5 turbo API服务。
+
+- https://github.com/xsigoking/chatgpt-free-api 通过对ChatGPT网站进行逆向工程，提供免费的GPT-3.5 API服务。
+
+- https://github.com/missuo/FreeDuckDuckGo 由于OpenAI的频繁更新，我再次创建了一个新版本，基于DuckDuckGo, GPT-3.5-Turbo-0125。
+
+- https://github.com/deedy5/duckduckgo_search 使用DuckDuckGo.com搜索引擎搜索单词，文档，图像，视频，新闻，地图和文本翻译。下载文件和图像到本地硬盘。 
+
+- https://github.com/binjie09/duckduckgo-api.git 免费的无限制的搜索接口
+
 
 <style>
 a {
