@@ -927,3 +927,9 @@ vendors:
 css: css
 js: js
 images: images
+
+# 文章评论: DISQUS
+disqus:
+  enable: false
+  shortname: 珍珠梦
+  count: true
