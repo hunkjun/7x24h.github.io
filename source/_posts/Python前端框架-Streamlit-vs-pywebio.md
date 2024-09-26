@@ -1,7 +1,7 @@
 ---
 title: Python前端框架 Streamlit vs pywebio
 date: 2023-12-22 16:46:41
-tags:
+tags: 技术
 ---
 
 ## Python前端框架 Streamlit vs pywebio

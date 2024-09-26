@@ -1,7 +1,7 @@
 ---
 title: 辅助代码生成服务CodeWhisperer
 date: 2024-02-19 15:02:31
-tags:
+tags: 工具
 ---
 
 ## 简介 CodeWhisperer

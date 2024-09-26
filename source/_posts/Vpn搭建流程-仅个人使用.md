@@ -1,7 +1,7 @@
 ---
 title: Vpn V2Ray 搭建流程,仅个人使用
 date: 2023-12-29 14:44:13
-tags: vpn
+tags: vpn,技术
 ---
 
 ### 服务端-V2Ray搭建详细图文教程

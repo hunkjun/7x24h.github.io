@@ -1,7 +1,7 @@
 ---
 title: Linux 操作系统秒级系统性能指标收集
 date: 2023-12-29 09:30:21
-tags: Linux
+tags: Linux，脚本
 ---
 
 ## 原因

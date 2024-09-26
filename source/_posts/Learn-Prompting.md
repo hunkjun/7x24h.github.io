@@ -1,7 +1,7 @@
 ---
 title: Learn Prompting
 date: 2024-03-01 18:30:30
-tags:
+tags: 技术
 ---
 
 

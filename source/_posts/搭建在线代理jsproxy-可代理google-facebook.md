@@ -1,7 +1,7 @@
 ---
 title: 搭建在线代理jsproxy, 可代理google/facebook
 date: 2023-12-29 09:18:29
-tags: proxy, 代理
+tags: 工具
 ---
 
 ## 原因
