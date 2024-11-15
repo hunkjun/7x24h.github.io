@@ -1,7 +1,7 @@
 ---
 title: 思考逻辑更详细更像人的思维链Prompt
 date: 2024-11-15 10:44:13
-tags:
+tags: 人工智能
 ---
 
 - 文章来源: https://mp.weixin.qq.com/s/IAKD0FfcYehs5FsDkLbTJQ
