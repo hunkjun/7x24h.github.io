@@ -52,6 +52,17 @@ export default function App() {
 }
 ```
 
+### 井字棋项目
+
+#### 构建思路
+
+- 构建棋盘
+- props传递参数
+- useState记录点击的状态
+- 交替放置“X”和“O” , 初始化: Array(9).fill(null)
+- 获胜规则
+- 时间旅行，历史记录
+
 ### 相关的链接
 
 next.js 是 react 的框架, 自带路由、认证等功能; 
