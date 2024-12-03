@@ -22,6 +22,7 @@ tags: React
 4. Components(组件)
 5. Props(道具)
 6. State(状态)
+7. Hook -- 以 use 开头的函数被称为 Hook。useState 是 React 提供的一个内置 Hook。
 
 ### 第一个组件
 
@@ -29,6 +30,25 @@ tags: React
 - npx create-react-app test001 #创建项目
 - npm install #安装依赖包
 - npm start #启动项目
+
+```js
+function Mybutton(props) {
+  return (
+    <button>
+      {props.text}
+    </button>
+  );
+}
+
+export default function App() {
+  return (
+    <div>
+      <h1>Welcome to my app</h1>
+      <Mybutton text="I am a button" />
+    </div>
+  );
+}
+```
 
 ### 相关的链接
 
